@@ -90,7 +90,7 @@ button:hover {
     font-size: 30px;
 }
 
-aboutme p{
+.p{
     margin-left:20%;
 }
 
@@ -194,6 +194,7 @@ aboutme p{
   transform: scale(1.2); 
 
 }
+
 
 
 
