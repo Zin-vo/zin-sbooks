@@ -86,12 +86,12 @@ button:hover {
 
 
 .aboutme h1{
-    margin-left: 850px;
+    margin-left: 550px;
     font-size: 30px;
 }
 
 .personal{
-    margin-left: 850px;
+    margin-left: 550px;
 }
 
 .abtf{
@@ -195,6 +195,7 @@ button:hover {
   transform: scale(1.2); 
 
 }
+
 
 
 
