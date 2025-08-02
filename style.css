@@ -86,7 +86,7 @@ button:hover {
 
 
 .aboutme h1{
-    margin-left: 100px;
+    margin-left: 50%;
     font-size: 30px;
 }
 
@@ -190,5 +190,6 @@ button:hover {
   transform: scale(1.2); 
 
 }
+
 
 
